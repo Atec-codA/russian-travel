@@ -1,28 +1,12 @@
 .header {
   margin: 0 auto;
   padding-top: 28px;
-  max-width: 1184px;
+  box-sizing: border-box;
   display: flex;
   justify-content: space-between;
 }
 
-.header__lang-link_ru {
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 28px;
-  text-decoration: none;
-  color: white;
 
-}
 
-.header__lang-link_en {
-  font-weight: normal;
-  font-size: 24px;
-  line-height: 28px;
-  text-decoration: none;
-  color: white;
-}
 
-.header__lang-link {
-  margin: auto 0;
-}
+

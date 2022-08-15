@@ -1,4 +1,9 @@
 .place__url-heading {
   grid-column: 2;
   grid-row: 1;
+  color: #aaaaaa;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
 }

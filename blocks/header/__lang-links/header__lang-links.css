@@ -1,0 +1,6 @@
+.header__lang-links {
+  margin: auto 0;
+  margin-right: 48px;
+  display: flex;
+  justify-content: center;
+}

@@ -4,10 +4,6 @@
   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
 }
 
-* {
-  box-shadow: 0 0 2px red;
-}
-
 body {
   background-color: #2A2C2F;
 }

@@ -3,7 +3,7 @@
   padding-top: 56px; 
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .section-padding_l {
     padding-top: 48px;
   }

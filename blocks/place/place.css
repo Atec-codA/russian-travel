@@ -9,7 +9,7 @@
   padding-top: 80px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .place {
     grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px);
     grid-template-rows: minmax(min-content, 92px) minmax(min-content, 440px);
@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .place {
     grid-template-columns: minmax(min-content, 320px);
     gap: 0;

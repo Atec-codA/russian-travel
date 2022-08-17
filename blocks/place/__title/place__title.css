@@ -11,3 +11,11 @@
   grid-column: 1;
   grid-row: 1;
 }
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    font-size: 42px;
+    line-height: 46px;
+    max-width: 330px;
+  }
+}

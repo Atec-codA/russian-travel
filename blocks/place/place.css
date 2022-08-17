@@ -8,3 +8,15 @@
 .place:nth-child(4) {
   padding-top: 80px;
 }
+
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px);
+    grid-template-rows: minmax(min-content, 92px) minmax(min-content, 440px);
+    gap: 40px;
+  }
+  
+  .place:nth-child(4) {
+    padding-top: 0;
+  }
+}

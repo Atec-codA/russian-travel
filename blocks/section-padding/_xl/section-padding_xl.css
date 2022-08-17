@@ -2,3 +2,9 @@
   margin-top: 0;
   padding-top: 92px; 
 }
+
+@media screen and (max-width: 768px) {
+  .section-padding_xl {
+    padding-top: 88px;
+  }
+}

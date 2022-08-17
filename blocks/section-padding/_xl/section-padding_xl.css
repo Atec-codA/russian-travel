@@ -8,3 +8,9 @@
     padding-top: 88px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .section-padding_xl {
+    padding-top: 64px;
+  }
+}

@@ -2,7 +2,8 @@
   display: grid;
   grid-template-columns: minmax(min-content, 460px) minmax(min-content, 484px);
   grid-template-rows: minmax(min-content, 152px) minmax(min-content, 460px);
-  gap: 40px;
+  row-gap: 48px;
+  column-gap: 40px;
 }
 
 .place:nth-child(4) {
@@ -23,7 +24,8 @@
 
 @media screen and (max-width: 767px) {
   .place {
-    grid-template-columns: minmax(min-content, 320px);
-    gap: 0;
+    grid-template-columns: minmax(min-content, max-content);
+    row-gap: 32px;
+    margin-top: 50px;
   }
 }

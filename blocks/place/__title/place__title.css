@@ -16,7 +16,7 @@
   .place__title {
     font-size: 42px;
     line-height: 46px;
-    max-width: 330px;
+    width: 330px;
   }
 }
 
@@ -26,5 +26,6 @@
     line-height: 35px;
     width: calc(100% - 2 * 16px);
     margin: 0 auto 0 auto;
+    text-align: left;
   }
 }

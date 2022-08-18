@@ -13,3 +13,10 @@
     line-height: 26px;
   }
 }
+
+@media screen and (max-width: 767px) {
+  .place__paragraph {
+    width: calc(100% - 2 * 16px);
+    margin: 0 auto 0 auto;
+  }
+}

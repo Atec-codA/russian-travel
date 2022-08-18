@@ -3,3 +3,12 @@
   flex-direction: column;
   justify-content: flex-end;
 }
+
+@media screen and (max-width: 767px) {
+  .place__website {
+    grid-row: 2;
+    grid-column: 1;
+    width: calc(100% - 2 * 16px);
+    margin: 0 auto 0 auto;
+  }
+}

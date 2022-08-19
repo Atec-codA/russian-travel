@@ -15,8 +15,6 @@
 
 ---
 
-# [Посмотреть проект](https://atec-coda.github.io/russian-travel/)
-
----
+## [Посмотреть проект](https://atec-coda.github.io/russian-travel/)
 
 В планах перевод сайта на английский язык

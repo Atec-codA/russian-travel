@@ -3,6 +3,12 @@
   padding-top: 56px; 
 }
 
+@media screen and (max-width: 1279px) {
+  .section-padding_l {
+    padding-top: 48px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .section-padding_l {
     padding-top: 48px;

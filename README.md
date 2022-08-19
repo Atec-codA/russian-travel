@@ -15,7 +15,7 @@
 
 ---
 
-[## Посмотреть проект](https://atec-coda.github.io/russian-travel/)
+# [Посмотреть проект](https://atec-coda.github.io/russian-travel/)
 
 ---
 

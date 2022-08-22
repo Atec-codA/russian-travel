@@ -3,25 +3,31 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 92px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 80px;
 }
 
 @media screen and (max-width: 1279px) {
   .places {
     width: calc(100% - 2 * 48px);
     margin-bottom: 75px;
+    row-gap: 60px;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .places {
     width: calc(100% - 2 * 24px);
-    margin-bottom: 63px;
+    margin-bottom: 92px;
+    row-gap: 73px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .places {
     width: 100%;
-    margin-bottom: 40px;
+    margin-bottom: 64px;
+    row-gap: 50px;
   }
 }

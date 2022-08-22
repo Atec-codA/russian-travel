@@ -1,16 +1,16 @@
-.section-padding_l {
+.main__section_size_l {
   margin-top: 0;
   padding-top: 56px; 
 }
 
 @media screen and (max-width: 1279px) {
-  .section-padding_l {
+  .main__section_size_l {
     padding-top: 48px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .section-padding_l {
+  .main__section_size_l {
     padding-top: 48px;
   }
 }

@@ -10,7 +10,6 @@
 
 .header__lang-link:nth-child(1) {
   margin-left: 0;
-  border-bottom: solid white;
 }
 
 .header__lang-link:hover {

@@ -1,22 +1,22 @@
-.section-padding_xl {
+.main__section_size_xl {
   margin-top: 0;
   padding-top: 92px; 
 }
 
 @media screen and (max-width: 1279px) {
-  .section-padding_xl {
-    padding-top: 78px;
+  .main__section_size_xl {
+    padding-top: 92px;
   }
 }
 
 @media screen and (max-width: 1023px) {
-  .section-padding_xl {
-    padding-top: 88px;
+  .main__section_size_xl {
+    padding-top: 84px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .section-padding_xl {
-    padding-top: 64px;
+  .main__section_size_xl {
+    padding-top: 63px;
   }
 }

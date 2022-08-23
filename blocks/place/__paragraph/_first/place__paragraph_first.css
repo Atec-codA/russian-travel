@@ -1,8 +1,0 @@
-.place__paragraph_first {
-  margin: 0 0 26px 0;
-  padding: 0;
-}
-
-.place__paragraph_first:last-child {
-  margin-bottom: 0;
-}
